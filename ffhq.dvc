@@ -1,0 +1,6 @@
+outs:
+- md5: 9c3170b44534941bde2f783a499247ce.dir
+  size: 29988341
+  nfiles: 1000
+  hash: md5
+  path: ffhq
